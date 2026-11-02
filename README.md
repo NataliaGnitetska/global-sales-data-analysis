@@ -128,4 +128,4 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Google Cola
 
  ## 📌 Повний аналіз
 
-[Відкрити ноутбук у Google Colab](https://colab.research.google.com/drive/1JS7ymyhZR2019XzjrTLLvNPMExVO_fQt?usp=sharing)
+[Відкрити ноутбук у Google Colab](global_sales_analysis.ipynb)
