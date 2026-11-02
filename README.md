@@ -1,4 +1,4 @@
-[Українська](README.md) | [English](README.en.md)
+[English](README.en.md) | [Українська](README.md)
 
 # Global Sales Data Analysis
 
