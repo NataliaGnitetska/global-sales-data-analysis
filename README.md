@@ -1,7 +1,5 @@
 [Українська](README.md) | [English](README.en.md)
 
-# global-sales-data-analysis
-
 # Аналіз глобальних продажів
 
 Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy • Google Colab • Data Cleaning • EDA • Statistical Analysis • Data Visualization
