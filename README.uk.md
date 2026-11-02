@@ -1,4 +1,4 @@
-[Українська](README.md) | [English](README.en.md)
+[Українська](README.uk.md) | [English](README.md)
 
 # Аналіз глобальних продажів
 
