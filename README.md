@@ -1,3 +1,5 @@
+[Українська](README.md) | [English](README.en.md)
+
 # global-sales-data-analysis
 
 # Аналіз глобальних продажів
